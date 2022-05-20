@@ -1,0 +1,11 @@
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\bin\Debug\gomulu_sistemler.exe.config
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\bin\Debug\gomulu_sistemler.exe
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\bin\Debug\gomulu_sistemler.pdb
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.csproj.AssemblyReference.cache
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.Form1.resources
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.Properties.Resources.resources
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.csproj.GenerateResource.cache
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.csproj.CoreCompileInputs.cache
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.exe
+C:\Users\kalka\source\repos\gomulu_sistemler\gomulu_sistemler\obj\Debug\gomulu_sistemler.pdb
