@@ -2,7 +2,7 @@
 # Petalinux-based CoDesign with Cordic
 In previous projects, the hardware accelerator part was designed with the CORDIC IP and a design that transfers the results to the computer with the ZYNQ processor. </br>
 [Cordic-based CoDesign](https://github.com/iremkalkanli/Cordic-based-CoDesign) </br>
-Petalinux was installed on the ZYNQ processor this time. With the c code written in the operating system, it is possible to get input and output from the computer. </br>
+Petalinux was installed on the ZYNQ processor this time. With the c code written in the operating system, it is possible to get input from petalinux. </br>
 ### Screenshot of Petaliunx Building Screen
 ![Petalinux building](https://github.com/iremkalkanli/Petalinux-Tabanli-Cordic-HW-SW-CoDesign/blob/f517dda8ebd39c4d2c37300122ffe7c3156ec884/Readme%20photos/petalinux%20kurumu.png)
 In addition, a GUI has been developed for the computer part of the system.
